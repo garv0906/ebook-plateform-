@@ -1,2 +1,2 @@
-# ebook-plateform-
+# ebook-plateform
 It's an pnline eBook plateform.
